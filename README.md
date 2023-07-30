@@ -1,6 +1,28 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# INTRODUCTION
+Todo App! Developed during my Celebal Summer Internship, this application is designed to offer users a feature-rich and intuitive to-do management system. Built with React and SCSS, it guarantees a seamless and adaptable experience across mobile devices. The standout among its features is the incredible interface, streamlining task management for an effortless and enjoyable experience.
+
+# FUNCTIONALITIES
+
+Switch Between Grid and List Views:
+Customize your todo management experience by seamlessly switching between grid and list views, tailored to your preferences.
+
+Secure Local Storage:
+Your todo data is safely stored in the user's local storage, eliminating the need for external databases
+
+Track and Update Todo Status:
+Keep a clear overview of your tasks' progress. Easily mark them as complete or incomplete as needed.
+ 
+Effortlessly Add and Organize Todos:
+Efficiently manage your tasks by easily adding new items to your to-do list and organizing them with ease.
+
+# HOW TO OPEN
+Start the development server.
+npm start
+To access the app in your preferred web browser, simply type or paste the following URL: http://localhost:3000. This will open the application for you to explore and utilize its features
+
 
 ## Available Scripts
 
