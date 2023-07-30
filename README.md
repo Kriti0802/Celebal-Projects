@@ -23,6 +23,8 @@ Start the development server.
 npm start
 To access the app in your preferred web browser, simply type or paste the following URL: http://localhost:3000. This will open the application for you to explore and utilize its features
 
+# App
+https://Kriti0802.github.io/Celebal-Projects
 
 ## Available Scripts
 
